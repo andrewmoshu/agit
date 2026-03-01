@@ -1,0 +1,2 @@
+# agit: mark log files as generated (reduces PR noise)
+.agit/**/*.jsonl linguist-generated=true
